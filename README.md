@@ -37,7 +37,7 @@ Tabela de conteúdos
 
 1) Digite em seu terminal 
    
-   <code>git clone https://github.com/Taunt-byte/WebSite-de-Hotel.git</code>
+   <code>git clone https://github.com/Taunt-byte/WebSite-humor.git</code>
 
 2) Depois basta abrir a pasta em seu editor de codigo
 
