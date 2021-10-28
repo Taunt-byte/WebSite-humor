@@ -16,6 +16,7 @@ Tabela de conteúdos
    * [Como usar](#como-usar)
       * [Pre Requisitos](#pre-requisitos)
    * [Tecnologias](#tecnologias)
+   * [Fotos](#fotos)
 <!--te-->
 
 <h4 align="center"> 
@@ -44,7 +45,7 @@ Tabela de conteúdos
 ## Como usar
 
  Para usar basta abrir o arquivo index.html em qualquer Navegador(Edge, Firefox, etc)
- ou entrar no link abaixo:
+    
 ## Pre requisitos
 
 Para se ter proveito desse repositorio basta ter em sua maquina os seguintes itens: 
@@ -66,3 +67,12 @@ Para se ter proveito desse repositorio basta ter em sua maquina os seguintes ite
     <td>-</td>
     </tr>
 </table>
+
+
+## Fotos
+
+<img src="img/foto1.png" height="150" width="175" alt="Unform" />
+
+<img src="img/foto2.png" height="150" width="175" alt="Unform" />
+
+<img src="img/foto3.png" height="150" width="175" alt="Unform" />
